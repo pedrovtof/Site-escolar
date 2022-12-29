@@ -1,0 +1,28 @@
+@charset "utf-8";/*Pt-br*/
+@import url(variaveis.css);
+@import url(media1290.css);/*tv*/
+@import url(media671_1289.css);/*computador*/
+@import url(media670.css);/*celular*/
+
+*
+{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+/* 
+Medias
+
+text-align: center;
+    font-size: 1.5em;
+    font-style: italic;
+    color: darkgreen;
+    background: darkseagreen;
+*/
+
+
+.consulta_usuario_sql h1{
+  border-radius: 20%;
+}
+

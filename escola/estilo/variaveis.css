@@ -1,0 +1,25 @@
+:root
+{
+    --nav:#6875ee;
+    --navcolor:white;
+
+
+    /*fonts*/
+    --H1ArticleFont: 'Butterfly Kids', cursive;
+    --H1rticleSZ:30px;
+
+    --P1ArticleFont: 'Roboto Condensed', sans-serif;
+    --P1rticleSZ:20px;
+     /*vh back*/
+    --background-size:100vh;
+
+    /*color back*/
+    --backcollor-primary:#193070;
+    --backcollor-secundary:#1B357D;
+}
+
+/*
+font-family: 'Butterfly Kids', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+*/
+
