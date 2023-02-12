@@ -13,7 +13,9 @@ Após instalado o Wamp, Na pasta do arquivo, procurar pelo diretório WWW, criar
 
 No MySQL criar uma coneção com Wamp ligado (observar a porta se necessário)
 
-Ir no navegador e pesquisar localhost/NomeDaPastaDoArquivo
+Exportar os DUMBS.
+
+Por ultimo no navegador e pesquisar localhost/NomeDaPastaDoArquivo
 
 E visualizar projeto.
 
