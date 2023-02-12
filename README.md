@@ -1,6 +1,22 @@
 # Site-escolar
 Interface falsa para escola, simulando cadastramento via redação e verificar a nota.Usando php e wamp para realizar conexão, sql para consultas
 
+Para realizar o teste, deve-se baixar o WAMP-Server
+
+https://sourceforge.net/projects/wampserver/
+
+E baixar MySQL 
+
+https://dev.mysql.com/downloads/workbench/
+
+Após instalado o Wamp, Na pasta do arquivo, procurar pelo diretório WWW, criar a pasta de projetos, inserir na pasta de projetos a pasta do projeto.
+
+No MySQL criar uma coneção com Wamp ligado (observar a porta se necessário)
+
+Ir no navegador e pesquisar localhost/NomeDaPastaDoArquivo
+
+E visualizar projeto.
+
 <h1>Possui campo para validação e inscrição, imagens chamativas retiradas do pexels</h1>
 
 
